@@ -32,4 +32,20 @@ body {
     }
     nav ul li a:hover {
         text-decoration: underline;
+<<<<<<< Updated upstream
+=======
+}
+table{
+    border-collapse:collapse;
+    
+}
+td{
+    width: 120px;
+    height: 90px;
+    font-size: 20px;
+    border: 1px black solid;
+}
+#talbe{
+    margin-left: 30%;
+>>>>>>> Stashed changes
 }
